@@ -36,7 +36,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: 'center', position: 'relative' }}>
           <a
             href={pdf}
-            download="Madhav_Resume_2024.pdf"
+            download="Madhav_K._Kabra.pdf"
             target="_blank"
             rel="noopener noreferrer"
             onClick={trackDownload}
