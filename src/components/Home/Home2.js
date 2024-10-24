@@ -26,7 +26,7 @@ function Home2() {
               <br />
               I'm proficient in technologies such as
               <i>
-                <b className="purple"> Next.js, React.js, TypeScript, and UI/UX design.</b>
+                <b className="purple"> React.js, TypeScript, and UI/UX design.</b>
               </i>
               <br />
               <br />
