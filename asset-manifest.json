@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.177c7462.css",
-    "main.js": "/Portfolio/static/js/main.aa49b05a.js",
+    "main.js": "/Portfolio/static/js/main.eca28d94.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ensight.png": "/Portfolio/static/media/ensight.c3b2d142cac36fe53ac8.png",
@@ -15,7 +15,7 @@
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/notelist.png": "/Portfolio/static/media/notelist.53a60ec2526805a7175e.png",
     "static/media/Canvas.png": "/Portfolio/static/media/Canvas.ee72392770d8d869b928.png",
-    "static/media/Madhav K. Kabra.pdf": "/Portfolio/static/media/Madhav K. Kabra.48c1e8dd9a97ffa9c378.pdf",
+    "static/media/Madhav K. Kabra.pdf": "/Portfolio/static/media/Madhav K. Kabra.19ed4e7c05f0ea246518.pdf",
     "static/media/multiStep.jpg": "/Portfolio/static/media/multiStep.635cfe563a08db32dfd2.jpg",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/ticTacToe.png": "/Portfolio/static/media/ticTacToe.ed5b27c42b2ff4661684.png",
@@ -27,12 +27,12 @@
     "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Portfolio/index.html",
     "main.177c7462.css.map": "/Portfolio/static/css/main.177c7462.css.map",
-    "main.aa49b05a.js.map": "/Portfolio/static/js/main.aa49b05a.js.map",
+    "main.eca28d94.js.map": "/Portfolio/static/js/main.eca28d94.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.177c7462.css",
-    "static/js/main.aa49b05a.js"
+    "static/js/main.eca28d94.js"
   ]
 }
