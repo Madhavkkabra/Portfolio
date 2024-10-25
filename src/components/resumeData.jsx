@@ -17,7 +17,7 @@ import multiStepImg from "../Assets/Projects/multiStep.jpg";
 
 const resumeData = {
   imagebaseurl: `https://picsum.photos/2133/1200`,
-  name: "Madhav Kabra",
+  name: "Madhav Kumar Kabra",
   role: "Senior Frontend Developer",
   linkedinId: "https://www.linkedin.com/in/madhavkabra/",
   whatsappLink: " https://wa.me/9229996730?text=Hey%20Madhav,%20Lets%20connect",
